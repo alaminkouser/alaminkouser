@@ -1,6 +1,6 @@
 # Hi there 👋 I am AL AMIN KOUSER
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
 
 ## 📚 Latest Medium Story
 
