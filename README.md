@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
 
-![](https://aak.deno.dev/resume/)
+![RESUME](https://aak.deno.dev/resume/)
 
 ## 📚 Latest Medium Story
 
