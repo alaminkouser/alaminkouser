@@ -1,7 +1,5 @@
 # Hi there 👋 I am AL AMIN KOUSER
 
-![](https://aak.deno.dev/visits/)
-
 ## 📚 Latest Medium Story
 
 <!-- MEDIUM-STORY-LIST:START -->
