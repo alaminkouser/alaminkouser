@@ -1,6 +1,6 @@
 # Hi there 👋 I am AL AMIN KOUSER
 
-![](https://komarev.com/ghpvc/?username=alaminkouser&style=for-the-badge)
+![](https://aak.deno.dev/visits/)
 
 ## 📚 Latest Medium Story
 
